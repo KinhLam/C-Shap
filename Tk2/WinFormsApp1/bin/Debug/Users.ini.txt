@@ -1,0 +1,2 @@
+1,khoahoang,30000,3 gio,123456
+2,admin,50000,10 gio,admin
