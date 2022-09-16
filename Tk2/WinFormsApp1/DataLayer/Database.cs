@@ -19,7 +19,7 @@ namespace WinFormsApp1.DataLayer
             List<User> users = null;
             try
             {
-                using (FileStream fileStream = new FileStream(path, FileMode.Open, FileAccess.Read))
+                using (FileStream fileStream = new FileStream(path, FileMode.Open, FileAccess.Read,FileShare.Read))
                 {
                     using (StreamReader sr = new StreamReader(fileStream))
                     {

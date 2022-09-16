@@ -21,3 +21,26 @@ C:\Users\khoad\source\C#\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.
 C:\Users\khoad\source\C#\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
 C:\Users\khoad\source\C#\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyNhanvien.resources
 C:\Users\khoad\source\C#\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyNhanvien_Modified.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmLogin.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmMain.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyNhanvien.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyNhanvien_Modified.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyTaiKhoan.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyTaiKhoan_Modified.resources
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll

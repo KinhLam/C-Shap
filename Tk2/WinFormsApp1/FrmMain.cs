@@ -52,6 +52,23 @@ namespace WinFormsApp1
             FrmQuanLyNhanvien frmQuanLyNhanVien = new FrmQuanLyNhanvien();
             frmQuanLyNhanVien.ShowDialog();
         }
+
+        private void FrmMain_Load(object sender, EventArgs e)
+        {
+            FrmLogin frmLogin = new FrmLogin();
+            frmLogin.ShowDialog();
+            lblThongTinDangNhap.Text = string.Format("Tài khoản đăng nhập: {0}", ClsMain.taiKhoan);
+        }
+
+        private void mnThoat_ButtonClick(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void mnDangXuat_Click(object sender, EventArgs e)
+        {
+            FrmLogin frmLogin = new FrmLogin();
+            frmLogin.ShowDialog();
+        }
     }
 }
-//123

@@ -22,9 +22,6 @@ namespace WinFormsApp1.DataLayer
         public string MatKhau { get { return matKhau; } set { matKhau= value;} }
     }
 
-    //public override string ToString()
-    //{
-    //    return string.Format("{0},{1},{2},{3},{4}", id, taiKhoan, soTien, thoiGian, matKhau);
-    //}
 
+    
 }
