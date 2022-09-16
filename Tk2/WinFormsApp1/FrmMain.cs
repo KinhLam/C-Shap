@@ -35,24 +35,6 @@ namespace WinFormsApp1
             frmQuanLyTaiKhoan.ShowDialog();
         }
 
-        private void mnQuanLyNhanVien_ButtonClick(object sender, EventArgs e)
-        {
-            FrmQuanLyNhanvien frmQuanLyNhanVien = new FrmQuanLyNhanvien();
-            frmQuanLyNhanVien.ShowDialog();
-        }
-
-        private void mnThemNhanVien_Click(object sender, EventArgs e)
-        {
-            FrmQuanLyNhanvien_Modified frmQuanLyNhanVien_Modified = new FrmQuanLyNhanvien_Modified();
-            frmQuanLyNhanVien_Modified.ShowDialog();
-        }
-
-        private void mnDanhSachNhanVien_Click(object sender, EventArgs e)
-        {
-            FrmQuanLyNhanvien frmQuanLyNhanVien = new FrmQuanLyNhanvien();
-            frmQuanLyNhanVien.ShowDialog();
-        }
-
         private void FrmMain_Load(object sender, EventArgs e)
         {
             FrmLogin frmLogin = new FrmLogin();

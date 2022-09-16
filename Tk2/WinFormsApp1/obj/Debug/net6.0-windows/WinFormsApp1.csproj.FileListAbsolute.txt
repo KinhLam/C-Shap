@@ -30,8 +30,6 @@ C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\n
 C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
 C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmLogin.resources
 C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmMain.resources
-C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyNhanvien.resources
-C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyNhanvien_Modified.resources
 C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyTaiKhoan.resources
 C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.FrmQuanLyTaiKhoan_Modified.resources
 C:\Users\khoad\OneDrive\Tài liệu\GitHub\C-Shap\Tk2\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache

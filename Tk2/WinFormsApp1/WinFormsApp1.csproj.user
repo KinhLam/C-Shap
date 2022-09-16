@@ -13,11 +13,5 @@
     <Compile Update="FrmQuanLyTaiKhoan_Modified.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FrmQuanLyNhanvien.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Update="FrmQuanLyNhanvien_Modified.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>

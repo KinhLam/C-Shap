@@ -24,7 +24,7 @@ namespace WinFormsApp1.DataLayer
                     using (StreamReader sr = new StreamReader(fileStream))
                     {
                         string line = string.Empty;
-                        User user = new User();
+                        User user; ;
                         users = new List<User>();
                         while ((line = sr.ReadLine()) != null)
                         {

@@ -33,9 +33,6 @@
             this.mnQuanLyKhachHang = new System.Windows.Forms.ToolStripSplitButton();
             this.mnThemKhachHang = new System.Windows.Forms.ToolStripMenuItem();
             this.mnDanhSachKhachHang = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnQuanLyNhanVien = new System.Windows.Forms.ToolStripSplitButton();
-            this.mnThemNhanVien = new System.Windows.Forms.ToolStripMenuItem();
-            this.mnDanhSachNhanVien = new System.Windows.Forms.ToolStripMenuItem();
             this.mnDangXuat = new System.Windows.Forms.ToolStripButton();
             this.mnThoat = new System.Windows.Forms.ToolStripSplitButton();
             this.statusStrip1 = new System.Windows.Forms.StatusStrip();
@@ -49,7 +46,6 @@
             this.mnStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.mnStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.mnQuanLyKhachHang,
-            this.mnQuanLyNhanVien,
             this.mnDangXuat,
             this.mnThoat});
             this.mnStrip.Location = new System.Drawing.Point(0, 0);
@@ -84,33 +80,6 @@
             this.mnDanhSachKhachHang.Size = new System.Drawing.Size(195, 22);
             this.mnDanhSachKhachHang.Text = "Danh sách Khách hàng";
             this.mnDanhSachKhachHang.Click += new System.EventHandler(this.mnDanhSachKhachHang_Click);
-            // 
-            // mnQuanLyNhanVien
-            // 
-            this.mnQuanLyNhanVien.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Text;
-            this.mnQuanLyNhanVien.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mnThemNhanVien,
-            this.mnDanhSachNhanVien});
-            this.mnQuanLyNhanVien.Image = ((System.Drawing.Image)(resources.GetObject("mnQuanLyNhanVien.Image")));
-            this.mnQuanLyNhanVien.ImageTransparentColor = System.Drawing.Color.Magenta;
-            this.mnQuanLyNhanVien.Name = "mnQuanLyNhanVien";
-            this.mnQuanLyNhanVien.Size = new System.Drawing.Size(119, 22);
-            this.mnQuanLyNhanVien.Text = "Quản lý nhân viên";
-            this.mnQuanLyNhanVien.ButtonClick += new System.EventHandler(this.mnQuanLyNhanVien_ButtonClick);
-            // 
-            // mnThemNhanVien
-            // 
-            this.mnThemNhanVien.Name = "mnThemNhanVien";
-            this.mnThemNhanVien.Size = new System.Drawing.Size(184, 22);
-            this.mnThemNhanVien.Text = "Thêm nhân viên";
-            this.mnThemNhanVien.Click += new System.EventHandler(this.mnThemNhanVien_Click);
-            // 
-            // mnDanhSachNhanVien
-            // 
-            this.mnDanhSachNhanVien.Name = "mnDanhSachNhanVien";
-            this.mnDanhSachNhanVien.Size = new System.Drawing.Size(184, 22);
-            this.mnDanhSachNhanVien.Text = "Danh sách nhân viên";
-            this.mnDanhSachNhanVien.Click += new System.EventHandler(this.mnDanhSachNhanVien_Click);
             // 
             // mnDangXuat
             // 
@@ -173,11 +142,8 @@
 
         private ToolStrip mnStrip;
         private ToolStripSplitButton mnQuanLyKhachHang;
-        private ToolStripSplitButton mnQuanLyNhanVien;
         private ToolStripMenuItem mnThemKhachHang;
         private ToolStripMenuItem mnDanhSachKhachHang;
-        private ToolStripMenuItem mnThemNhanVien;
-        private ToolStripMenuItem mnDanhSachNhanVien;
         private ToolStripButton mnDangXuat;
         private ToolStripSplitButton mnThoat;
         private StatusStrip statusStrip1;

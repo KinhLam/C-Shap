@@ -20,10 +20,10 @@ namespace WinFormsApp1
        
         private bool KiemTraDangNhap(string taiKhoan, string matKhau)
             {
-               // return bd.KiemTraUser(taiKhoan, matKhau);
-            if (taiKhoan.Equals("admin") && matKhau.Equals("admin"))
-                return true;
-            return false;
+                return bd.KiemTraUser(taiKhoan, matKhau);
+            //if (taiKhoan.Equals("admin") && matKhau.Equals("admin"))
+            //    return true;
+            //return false;
         }
 
         private void btnThoat_Click(object sender, EventArgs e)
@@ -85,7 +85,7 @@ namespace WinFormsApp1
 
         private void FrmLogin_Load(object sender, EventArgs e)
         {
-
+            bd = new BLLUser(ref err, ClsMain.path);
         }
     }
 }
