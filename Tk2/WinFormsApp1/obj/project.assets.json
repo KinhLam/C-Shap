@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\khoad\\source\\C#\\Tk2\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\khoad\\OneDrive\\Tài liệu\\GitHub\\C-Shap\\Tk2\\WinFormsApp1\\WinFormsApp1.csproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\khoad\\source\\C#\\Tk2\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectPath": "C:\\Users\\khoad\\OneDrive\\Tài liệu\\GitHub\\C-Shap\\Tk2\\WinFormsApp1\\WinFormsApp1.csproj",
       "packagesPath": "C:\\Users\\khoad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\khoad\\source\\C#\\Tk2\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\khoad\\OneDrive\\Tài liệu\\GitHub\\C-Shap\\Tk2\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\khoad\\AppData\\Roaming\\NuGet\\NuGet.Config",
