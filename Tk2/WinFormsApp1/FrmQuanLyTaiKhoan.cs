@@ -1,4 +1,6 @@
-﻿using System;
+﻿using WinFormsApp1.BussinessLayer;
+using WinFormsApp1.DataLayer;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -15,6 +17,12 @@ namespace WinFormsApp1
         public FrmQuanLyTaiKhoan()
         {
             InitializeComponent();
+        }
+
+        private void btnThemTaiKhoan_Click(object sender, EventArgs e)
+        {
+            FrmQuanLyTaiKhoan_Modified frmQuanLyTaiKhoan_Modified = new FrmQuanLyTaiKhoan_Modified();
+            frmQuanLyTaiKhoan_Modified.ShowDialog();
         }
     }
 }
